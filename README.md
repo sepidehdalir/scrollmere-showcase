@@ -1,5 +1,8 @@
 # Scrollmere: Long Screenshot
 
+**Current App Review status — October17,2026:** Rejected; clarification/reconsideration is in progress. Not publicly released. Earlier submission milestones below are historical.
+
+
 ![Scrollmere icon](assets/icon.png)
 
 Many Screenshots. One Clean Story.
