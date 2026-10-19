@@ -1,13 +1,13 @@
 # Scrollmere: Long Screenshot
 
-**Current App Review status — October17,2026:** Rejected; clarification/reconsideration is in progress. Not publicly released. Earlier submission milestones below are historical.
+**Current App Review status — October 19, 2026:** Rejected under Guideline 4.3(a). Apple confirmed receipt of an app-specific App Review Board appeal. Decision pending; not publicly released.
 
 
 ![Scrollmere icon](assets/icon.png)
 
 Many Screenshots. One Clean Story.
 
-**Status: submitted to Apple on September 27, 2026. Version 1.0 (2) and Lifetime Pro are Waiting for Review. Not yet released.**
+**Status:** Version 1.0 (2) is Rejected under Guideline 4.3(a); Lifetime Pro is Ready for Review. Apple received the Board appeal on October 19. Not released.
 
 Public product and engineering showcase by **Sepideh Javanbakht Dalir**. [Website](https://www.arvinify.com) · [Contact](mailto:hello@arvinify.com). Commercial source is private.
 
