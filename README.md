@@ -1,5 +1,7 @@
 # Scrollmere: Long Screenshot
 
+**Unsubmitted recovery work — October21,2026:** A private-source fix prevents unreadable drafts from being overwritten or retained originals being deleted through an empty recovery workspace. Targeted native tests passed on iOS17 and26.5. This remains unsubmitted; the existing4.3 rejection and pending Board appeal are unchanged. Premium campaigns are unchanged.
+
 **Current App Review status — October 19, 2026:** Rejected under Guideline 4.3(a). Apple confirmed receipt of an app-specific App Review Board appeal. Decision pending; not publicly released.
 
 
