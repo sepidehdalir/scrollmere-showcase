@@ -30,3 +30,8 @@ Original fictional conversations and receipts, actual SwiftUI renders, and real 
 ## Engineering evidence
 
 16 tests passed on iPhone 17 Pro Max / iOS 26.1. Covered draft recovery, original-byte retention, backup exclusion, review gating, grayscale orientation, exact PNG output continuity, 20-source/32-megapixel export and local StoreKit purchase/restore/pending/refund handling. Chat and receipt exports match their full source fixtures pixel for pixel. iPad-sized UI renders were inspected; this is not a claim of iPad hardware execution. App Store sandbox purchase and iOS 15 execution remain unverified.
+
+
+## October 22 corrected candidate — not resubmitted
+
+Storage preservation and retryable Undo corrections are packaged locally as 1.0(3). Three additional iOS 17 integration cases pass: two local StoreKit cases and phone/tablet-sized product rendering with chat/receipt exports. These renders are not physical iPad testing or interactive import/share UI automation. Signed archive and local App Store distribution IPA export/signature pass inspection. Apple-server validation, upload, processing, App Review submission, 4.3 resolution and approval remain unverified. Last submitted build 2 and the existing Board appeal are historical review records. Premium iPhone/iPad campaign pixels remain unchanged.
